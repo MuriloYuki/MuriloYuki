@@ -20,9 +20,9 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloYuki&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
+<p align="center">
+  <img src="https://ghchart.rshah.org/216e39/MuriloYuki" alt="Murilo's Contribution Graph" />
+</p>
 
 ---
 
