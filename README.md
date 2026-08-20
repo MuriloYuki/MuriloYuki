@@ -6,7 +6,7 @@
 
 📄 **Check out my Resume / Currículo:**  
 [![Resume (EN)](https://img.shields.io/badge/Resume-English-blue?style=for-the-badge&logo=googledocs&logoColor=white)](./resume_murilo_en.pdf)
-[![Currículo (PT)](https://img.shields.io/badge/Currículo Introdução à Programação Orientada a Objetos (POO) – Fundação Bradesco (2024)-Português-green?style=for-the-badge&logo=googledocs&logoColor=white)](./curriculo_murilo_final.pdf)
+[![Currículo (PT)](https://img.shields.io/badge/Currículo-Português-green?style=for-the-badge&logo=googledocs&logoColor=white)](./curriculo_murilo_final.pdf)
 
 ---
 
@@ -24,7 +24,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
---- Introdução à Programação Orientada a Objetos (POO) – Fundação Bradesco (2024)
+---
 
 ### 📊 GitHub Stats
 
